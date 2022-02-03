@@ -4,7 +4,7 @@ function closeSide() {
 }
 
 function goTo(el) {
-    alert("You are clicking on " + el.innerText);
+    alert("Loading weather report for " + el.innerText);
 }
 
 
